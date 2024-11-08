@@ -1,4 +1,4 @@
-[08/11, 12:42 pm] Ruby Cu: #include<iostream>
+#include<iostream>
 
 usingnamespacestd;
 
